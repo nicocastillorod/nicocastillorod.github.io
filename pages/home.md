@@ -1,6 +1,7 @@
 ---
 title: Home
 description: Home
+layout: home
 background:
 permalink: /home/
 ---
